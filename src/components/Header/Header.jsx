@@ -14,7 +14,7 @@ const Header = () => {
   <a href="" className='link'>News</a>
 </div>
 <a href="" className='icon'>
-  <img src="" alt="icon on cart" />
+  <img src="{icon}" alt="icon on cart" />
 </a>
 
       </nav>
